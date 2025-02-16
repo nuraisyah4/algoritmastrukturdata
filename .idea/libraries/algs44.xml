@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="algs44">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/latihanbag/lib/algs4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

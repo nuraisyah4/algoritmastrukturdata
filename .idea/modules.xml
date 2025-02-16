@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Latihan/Latihan.iml" filepath="$PROJECT_DIR$/Latihan/Latihan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latihanbag/latihanbag.iml" filepath="$PROJECT_DIR$/latihanbag/latihanbag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latihanqueue/latihanqueue.iml" filepath="$PROJECT_DIR$/latihanqueue/latihanqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latihanstack/latihanstack.iml" filepath="$PROJECT_DIR$/latihanstack/latihanstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
